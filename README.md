@@ -16,26 +16,38 @@ You can view the original Figma design by following this link: [Figma Design](ht
 
 ## Version Updates
 
-1. **Version 1.0** (December 7th, 2023, 5:00 PM)
-   - Created basic design.
+# Project Development Timeline
 
-2. **Version 1.1** (December 7th, 2023, 7:30 PM)
-   - Aligned GIF elements.
+**Version 1.0** (December 7th, 2023, 5:00 PM)
+- Created basic design.
 
-3. **Version 1.2** (December 7th, 2023, 8:45 PM)
-   - Added load animations to pictures.
+**Version 1.1** (December 7th, 2023, 7:30 PM)
+- Aligned GIF elements.
 
-4. **Version 1.3** (December 7th, 2023, 10:15 PM)
-   - Added load animation to text elements.
+**Version 1.2** (December 7th, 2023, 8:45 PM)
+- Added load animations to pictures.
 
-5. **Version 1.4** (December 8th, 2023, 1:00 AM)
-   - Added color change animation to text elements.
+**Version 1.3** (December 7th, 2023, 10:15 PM)
+- Added load animation to text elements.
 
-6. **Version 1.5** (December 8th, 2023, 2:30 AM)
-   - Added responsive design with media queries for HD screens.
-   - Integrated CDNs for resource loading.
-   - Added custom font.
-   - Final version released.
+**Version 1.4** (December 8th, 2023, 1:00 AM)
+- Added color change animation to text elements.
+
+**Version 1.5** (December 8th, 2023, 2:30 AM)
+- Added responsive design with media queries for HD screens.
+- Integrated CDNs for resource loading.
+- Added custom font.
+- Final version released.
+
+**Version 2.0** (December 12th, 2023, 5:00 PM)
+- Rest of the Figma files were converted to HTML assets.
+
+**Version 2.1** (December 13th, 2023 9:00 AM)
+- HTML assets were polished, animations added, and placement of objects corrected.
+
+**Version 2.2** (December 13th, 2023, 11:30 AM)
+- Linking of HTML done.
+- Final release.
 
 ## Screenshots
 
