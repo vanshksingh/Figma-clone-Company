@@ -68,5 +68,7 @@ We would like to acknowledge Figma for providing the design inspiration for this
 ## Contact Information
 
 For any questions or feedback, please feel free to reach out to me.
+@vanshksingh
+@Shrijo7478
 
 
