@@ -1,4 +1,4 @@
-# Figma Clone Challenge
+# Figma Clone Challenge.
 
 This project is a frontend clone of a Figma design. You can run the project by opening the HTML file directly in a web browser. All other required files are loaded from Content Delivery Networks (CDNs), so there are no additional prerequisites or installations required.
 
